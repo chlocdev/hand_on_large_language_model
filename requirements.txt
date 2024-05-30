@@ -1,0 +1,8 @@
+jupyter
+#openai==0.28
+openai
+tiktoken
+llama-cpp-python
+lamini
+datasets
+# pip install accelerate -U
