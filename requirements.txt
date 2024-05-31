@@ -6,3 +6,7 @@ llama-cpp-python
 lamini
 datasets
 # pip install accelerate -U
+langchain
+langchain-community
+docarray
+wikipedia
